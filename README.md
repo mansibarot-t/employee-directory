@@ -51,8 +51,6 @@ python -m venv venv
 pip install -r requirements.txt
 uvicorn main:app --reload
 ```
-*Make sure to configure your `.env` based on `.env.example`.*
-
 ### 3. Frontend Setup
 ```bash
 cd frontend
