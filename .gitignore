@@ -6,8 +6,7 @@ env/
 __pycache__/
 
 # Environment variables
-.env
-.env.*.local
+
 
 # Next.js / Vite build output
 dist/
