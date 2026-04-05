@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+env/
+__pycache__/
+
+# Environment variables
+.env
+.env.*.local
+
+# Next.js / Vite build output
+dist/
+build/
+.next/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
